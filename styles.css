@@ -204,3 +204,20 @@ body {
   from { transform: translateX(0); }
   to { transform: translateX(130vw); }
 }
+
+
+.conclusion-title {
+  text-align: center;
+  margin-top: var(--space-4);
+  color: var(--valentine-red);
+  font-family: 'Cursive', sans-serif;
+  font-size: 2rem;
+}
+
+.conclusion-subtitle {
+  text-align: center;
+  margin-top: var(--space-2);
+  color: black;
+  font-family: 'Cursive', sans-serif;
+  font-size: 20px;
+}
